@@ -1,0 +1,30 @@
+1,Koja je najmanja država na svetu?,Vatikan,San Marino,Monako,Lihtenštajn,10  
+2,Koji je hemijski simbol za zlato?,Au,Ag,Fe,C,10  
+3,Koji kontinent ima najviše država?,Afrika,Evropa,Azija,Južna Amerika,20  
+4,Koji je glavni grad Kanade?,Otava,Toronto,Vankuver,Montreal,10  
+5,Koji se poznati matematičar smatra ocem geometrije?,Euklid,Arhimed,Pitagora,Tales,20  
+6,Koja reka prolazi kroz London?,Temza,Dunav,Rajna,Sena,10  
+7,Koji instrument svira čuveni muzičar Niccolò Paganini?,Violina,Gitara,Klavir,Flauta,30  
+8,Koji je najveći okean na svetu?,Tihi,Atlantski,Indijski,Severni ledeni,10  
+9,Koji film je osvojio najviše Oskara?,Gospodar prstenova: Povratak kralja,Titanik,Ben Hur,Prohujalo s vihorom,30  
+10,Koja je zvanična valuta Japana?,Jen,Yuan,Won,Rupija,30  
+11,Koja je planeta najbliža Suncu?,Merkur,Venera,Mars,Zemlja,10  
+12,Ko je napisao roman "Zločin i kazna"?,Dostojevski,Tolstoj,Čehov,Pasternak,20  
+13,Koji element ima hemijski simbol O?,Kiseonik,Ugljenik,Vodik,Azot,10  
+14,Koji je sport poznat kao "kralj sportova"?,Fudbal,Košarka,Tenis,Ragbi,10  
+15,Koja ptica ne može da leti?,Pingvin,Galeb,Vrabac,Orao,10  
+16,Kako se zove glavni grad Australije?,Kanbera,Sidnej,Melburn,Brizbejn,20  
+17,Koji je najduži zid na svetu?,Kineski zid,Berlinški zid,Hadrijanov zid,Antoanin zid,10  
+18,Koji gas najviše ima u Zemljinoj atmosferi?,Azot,Kiseonik,Ugljen-dioksid,Argon,20  
+19,Ko je naslikao Mona Lizu?,Leonardo da Vinči,Mihelanđelo,Van Gog,Pikaso,10  
+20,Koji je najviši vrh na svetu?,Mont Everest,K2,Kilimandžaro,Annapurna,10  
+21,Koji dinosaur se smatra najvećim?,Argentinosaur,Tiranosaurus,Triceratops,Stegosaurus,30  
+22,Koji jezik ima najviše govornika na svetu?,Mandarinski,Engleski,Španski,Hindi,20  
+23,Koji metal ima najveću gustinu?,Osmijum,Zlato,Platina,Srebro,30  
+24,Koji je simbol za pi?,π,Φ,Ω,Ψ,10  
+25,Ko je prvi čovek kročio na Mesec?,Nil Armstrong,Baz Oldrin,Juri Gagarin,Majkl Kolins,10  
+26,Koji sport je nastao u Kanadi?,Hokej na ledu,Košarka,Kriket,Ragbi,20  
+27,Koji jezik se govori u Brazilu?,Portugalski,Španski,Francuski,Engleski,20  
+28,Ko je autor dela "Prokleta avlija"?,Ivo Andrić,Meša Selimović,Miroslav Krleža,Desanka Maksimović,20  
+29,Koji je najbrži kopneni sisar?,Gepard,Leopard,Lav,Antilopa,10  
+30,Koje je godine potpisan Versajski sporazum?,1919,1918,1920,1921,30  
