@@ -28,3 +28,63 @@
 28,Ko je autor dela "Prokleta avlija"?,Ivo Andrić,Meša Selimović,Miroslav Krleža,Desanka Maksimović,20  
 29,Koji je najbrži kopneni sisar?,Gepard,Leopard,Lav,Antilopa,10  
 30,Koje je godine potpisan Versajski sporazum?,1919,1918,1920,1921,30  
+31,Ko je napisao roman "Na Drini ćuprija"?,Ivo Andrić,Danilo Kiš,Meša Selimović,Milorad Pavić,20
+32,Koja je najduža reka u Srbiji?,Morava,Dunav,Drina,Sava,20
+33,Koja država ima najviše stanovnika na svetu?,Kina,Indija,Sjedinjene Američke Države,Rusija,10
+34,Ko je bio prvi predsednik Sjedinjenih Američkih Država?,George Washington,Thomas Jefferson,Abraham Lincoln,John Adams,10
+35,Koja je najviša planina na svetu?,Mount Everest,K2,Kilimandžaro,Mont Blanc,20
+36,Koji je glavni grad Francuske?,Pariz,London,Madrid,Rim,10
+37,Koji je simbol matematičkog broja Pi?,π,Δ,∑,√,10
+38,Koji je najpoznatiji festival u Brazilu?,Karneval,Oktoberfest,La Tomatina,Glastonbury,20
+39,U kojem je gradu održana prva Olimpijada u modernom dobu?,Atina,Pariz,London,Rim,10
+40,Ko je autor "Hamleta"?,William Shakespeare,Charles Dickens,Jane Austen,Mark Twain,20
+41,Koja je najpoznatija građevina u Indiji?,Taj Mahal,Petra,Colosseum,Piramide u Gizi,30
+42,Koja se hemijska supstanca koristi za dezinfekciju vode?,Hlor,Natrijum,Kiseonik,Azot,20
+43,Koja je najpoznatija vrsta pčela koja proizvodi med?,Medonosna pčela,Krvoločna pčela,Mnogobrojna pčela,Divlja pčela,10
+44,Koja se boja dobija mešanjem crvene i plave boje?,Ljubičasta,Zeleni,Narandžasta,Siva,10
+45,Koji je najpoznatiji ruski baletan?,Rudolf Nurejev,Mikhail Baryshnikov,Sergei Polunin,Vaslav Nijinski,30
+46,Koja životinja je simbol Australije?,Klokan,Koala,Krokodil,Pingvin,10
+47,Ko je autor "Don Quijote"?,Miguel de Cervantes,Gabriel García Márquez,Mario Vargas Llosa,Jorge Luis Borges,30
+48,Koji je glavni grad Italije?,Rim,Milano,Venecija,Firenca,10
+49,Koji je najpoznatiji pesnik Francuske iz 19. veka?,Victor Hugo,Paul Verlaine,Charles Baudelaire,Albert Camus,30
+50,Koja država je poznata po "čokoladama"?,Švajcarska,Belgija,Italija,Španija,10
+51,Koja zemlja je poznata po pivu "Heineken"?,Holandija,Nemačka,Belgija,Češka,10
+52,Koji je simbol Japana?,Sakura,Lotus,Jasmin,Iris,20
+53,Koji je najpoznatiji izumitelj i naučnik?,Nikola Tesla,Albert Einstein,Thomas Edison,Isaac Newton,10
+54,Koja je najpoznatija pesma The Beatlesa?,Hey Jude,Let It Be,Yesterday,Come Together,10
+55,Koji je najpoznatiji svetski park?,Nacionalni park Yellowstone,Centralni park,Banff,Yosemite,30
+56,Koji je autor "Ubiti pticu rugalicu"?,Harper Lee,Ernest Hemingway,F. Scott Fitzgerald,Mark Twain,20
+57,Koji je najpoznatiji grad u Japanu?,Tokio,Osaka,Kjoto,Nara,10
+58,Koji je najpoznatiji film Stevena Spielberga?,Jaws,E.T.,Indiana Jones,Jurassic Park,10
+59,Koji je najviši vodopad na svetu?,Angel Falls,Niagara Falls,Victoria Falls,Iguazu Falls,20
+60,Koja država je domaćin Svetskog prvenstva u fudbalu 2022?,Katar,Rusija,Brazil,Nemačka,10
+61,Koji je najpoznatiji engleski pesnik iz 16. veka?,William Shakespeare,John Milton,Geoffrey Chaucer,Edmund Spenser,30
+62,Koja je najpoznatija čajanka u Engleskoj?,Afternoon Tea,High Tea,Evening Tea,Morning Tea,30
+63,Koji je najpoznatiji američki pisac horora?,Stephen King,Edgar Allan Poe,Mark Twain,Nathaniel Hawthorne,10
+64,Koja država je domaćin Venecijanskog festivala?,Italija,Francuska,Španija,Nemačka,20
+65,Ko je stvorio poznati lik Sherlocka Holmesa?,Arthur Conan Doyle,Agatha Christie,Edgar Allan Poe,J.K. Rowling,20
+66,Koja je najpoznatija pustinja na svetu?,Sahara,Gobi,Kalahari,Atakama,10
+67,Koji je najpoznatiji kompozitor iz perioda romantizma?,Ludwig van Beethoven,Wolfgang Amadeus Mozart,Johann Sebastian Bach,Pyotr Ilyich Tchaikovsky,30
+68,Koja je najpoznatija hrana Italije?,Pizza,Sushi,Tacos,Hamburger,10
+69,Koji je najpoznatiji grad u Egiptu?,Kairo,Aleksandrija,Luxor,Giza,10
+70,Koja je najpoznatija plaža na Havajima?,Waikiki Beach,Copacabana,Bondi Beach,South Beach,10
+71,Koja je najpoznatija pesma Freddieja Mercuryja?,Bohemian Rhapsody,We Are the Champions,Somebody to Love,We Will Rock You,10
+72,Koji je najpoznatiji svetski ples?,Samba,Tango,Vals,Fox Trot,20
+73,Koji je najpoznatiji svetski teniser?,Novak Đoković,Roger Federer,Rafael Nadal,Pete Sampras,10
+74,Koji je najpoznatiji roman J.R.R. Tolkiena?,Gospodar prstenova,Hobit,Silmarilion,Deca Hurinova,30
+75,Koji je najpoznatiji američki automobil?,Ford Mustang,Chevrolet Camaro,Dodge Charger,Tesla Model S,10
+76,Koja je najpoznatija igračka na svetu?,LEGO,Barbie,Rubikova kocka,Play-Doh,10
+77,Koji je najpoznatiji film režisera Alfreda Hitchcocka?,Psycho,Vertigo,North by Northwest,Rear Window,20
+78,Koja je najpoznatija reč na svetu?,OK,Hello,Yes,Thanks,10
+79,Koji je najpoznatiji francuski sir?,Brie,Roquefort,Camembert,Emmental,20
+80,Koji je najpoznatiji roman Ernesta Hemingwaya?,Starac i more,Zbogom oružje,Za kim zvono zvoni,Sunce se ponovo rađa,30
+81,Koji je najpoznatiji ruski pisac?,Lev Tolstoј,Anton Čehov,Fjodor Dostojevski,Maksim Gorki,20
+82,Koja reka protiče kroz Pariz?,Sena,Rajna,Loire,Dunav,10
+83,Koji je najpoznatiji engleski naučnik iz 17. veka?,Isaac Newton,Charles Darwin,Michael Faraday,Thomas Edison,10
+84,Koji je glavni grad Španije?,Madrid,Barselona,Sevilja,Valensija,10
+85,Koji je najpoznatiji srpski pisac 20. veka?,Ivo Andrić,Danilo Kiš,Meša Selimović,Bora Stanković,20
+86,Koja životinja je simbol Egipta?,Krokodil,Lav,Majmun,Sova,10
+87,Koji je najpoznatiji hrvatski pesnik?,Tin Ujević,Miroslav Krleža,August Šenoa,Marko Marulić,20
+88,Koji je najpoznatiji ruski roman?,"Ana Karenjina","Zločin i kazna","Rat i mir","Braća Karamazovi",30
+89,Koja planina je najviša u Evropi?,Mont Blanc,Matterhorn,Mont Elbrus,Vezuv,20
+90,Koji je najpoznatiji muzej u Parizu?,Louvre,Musée d'Orsay,Centre Pompidou,Musée Rodin,20
