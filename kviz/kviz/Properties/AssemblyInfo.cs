@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("kviz")]
+[assembly: AssemblyTitle("Kviz")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("kviz")]
+[assembly: AssemblyProduct("Kviz")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("29e3bf67-bb2b-4eb5-92a2-f91ae9ce0f39")]
+[assembly: Guid("7a6d9272-3958-4fbc-8df3-fd21f898a26e")]
 
 // Version information for an assembly consists of the following four values:
 //
